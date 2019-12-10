@@ -1,4 +1,4 @@
-![Some badge](https://img.shields.io/badge/Booty-Ass-yellow.svg) [![Build Status](https://travis-ci.org/BootyAss/lab-04-boost-filesystem.svg?branch=master)](https://travis-ci.org/BootyAss/lab-04-boost-filesystem) ![Discord](https://img.shields.io/discord/486961752823562240) ![GitHub repo size](https://img.shields.io/github/repo-size/bootyass/lab-04-boost-filesystem?style=for-the-badge) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) 
+[![Build Status](https://travis-ci.org/Shewa00/lab-04.svg?branch=master)](https://travis-ci.org/Shewa00/lab-04)
 
 # Лабораторная работа №4
 
