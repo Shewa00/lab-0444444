@@ -1,3 +1,4 @@
+
 bcs balance_00123456_20181002.txt
 bcs balance_00123456_20180917.txt
 bcs balance_00123456_20180903.txt
