@@ -6,7 +6,6 @@ TEST(Example, EmptyTest) {
     filer(ftp_path);
     EXPECT_EQ(Brokers.size(), 3);
 
-
     if (out.is_open())
         if (bf::is_directory(ftp_path)) {
             out << "\n\tOverall:\n";
