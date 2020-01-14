@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc liblab-04-boost-filesystemd.a  CMakeFiles/lab-04-boost-filesystem.dir/sources/source.cpp.o CMakeFiles/lab-04-boost-filesystem.dir/tests/test.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib liblab-04-boost-filesystemd.a
